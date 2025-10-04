@@ -1,6 +1,3 @@
-# Create README file
-echo "# Invoice OCR System
-
 A hybrid OCR system for extracting text from invoices using both Tesseract and TrOCR (Transformer-based OCR).
 
 ## Features
