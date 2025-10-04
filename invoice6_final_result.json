@@ -1,0 +1,26 @@
+{
+  "file_path": "invoice_image/invoice6.jpeg",
+  "timestamp": "2025-10-04T10:48:28.870573",
+  "best_result": {
+    "text": "NAGANNA RAAJAA SILK INDUSTRIES\n\n45/4,A, Radio Room Backside, Thottathusalai, Doddampalayam-638451\nBhavanisagar Via, Sathyamangalam Tk. - 638 451, Erode Dist.\nCell : 96295 88189, 97917 69734\n\nGSTIN : 33DCRPKO145Q1Z5 TAX INVOICE\n\nSTATE CODE : 33.\n\nANT yg - b38162 |\n\ntm VAviTHAs cet aTIDNs\n\nInvoice No. 153\nInvoice Date Oy bu ldo2\nE-way Bill No.\n\nTransportation Mode\n\nGSTIN BBE AZPKOB AD FL 2phisi coo\n\nName of Product\n\n[za]\n\nVehicle No,\n\n“E&OE —*Hanloom Goods only\n\nRupees Hetity...fovn..thous. awd....Pive\nund ated... Torelve.. Rupaas..y\n\nTOTAL] Zy jo |\n\nBANK DETAILS :\n\nAlcName : NAGANNA RAAJAA SILK INDUSTRIES,\n‘Ac No 11200 2640 2797\n\nBank CANARA BANK LTD,\n\nIFSC CNRB0004377\n\nBranch: SATHYAMANGALAM\n\nTerms & Conditions",
+    "method": "tesseract",
+    "length": 720,
+    "confidence": 0.7
+  },
+  "all_results": {
+    "tesseract": {
+      "text": "NAGANNA RAAJAA SILK INDUSTRIES\n\n45/4,A, Radio Room Backside, Thottathusalai, Doddampalayam-638451\nBhavanisagar Via, Sathyamangalam Tk. - 638 451, Erode Dist.\nCell : 96295 88189, 97917 69734\n\nGSTIN : 33DCRPKO145Q1Z5 TAX INVOICE\n\nSTATE CODE : 33.\n\nANT yg - b38162 |\n\ntm VAviTHAs cet aTIDNs\n\nInvoice No. 153\nInvoice Date Oy bu ldo2\nE-way Bill No.\n\nTransportation Mode\n\nGSTIN BBE AZPKOB AD FL 2phisi coo\n\nName of Product\n\n[za]\n\nVehicle No,\n\n“E&OE —*Hanloom Goods only\n\nRupees Hetity...fovn..thous. awd....Pive\nund ated... Torelve.. Rupaas..y\n\nTOTAL] Zy jo |\n\nBANK DETAILS :\n\nAlcName : NAGANNA RAAJAA SILK INDUSTRIES,\n‘Ac No 11200 2640 2797\n\nBank CANARA BANK LTD,\n\nIFSC CNRB0004377\n\nBranch: SATHYAMANGALAM\n\nTerms & Conditions",
+      "config": "auto",
+      "length": 720,
+      "method": "tesseract"
+    },
+    "trocr_printed": {
+      "error": "TrOCR printed failed",
+      "method": "trocr_printed"
+    },
+    "trocr_handwritten": {
+      "error": "TrOCR handwritten failed",
+      "method": "trocr_handwritten"
+    }
+  }
+}

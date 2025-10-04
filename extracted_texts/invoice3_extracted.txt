@@ -1,0 +1,32 @@
+Source: invoice3.png
+Extraction Method: tesseract_auto
+Confidence: 0.800
+Text Length: 933 characters
+==================================================
+[ NVO | C E Due Amount - Rs. 39,750.18)
+Invoice No. - 654654
+Invoice Date - 08-03-2021
+Due Date - 15-03-2021 S.K.P.S DIGITAL
+Okhla Industrial Area,
+New Delhi-110020
+Phone : 9999999999
+GSTIN : 898989898989
+BILL TO SHIP TO
+Nazim Khan Nazim Khan
+Sector-200, Noida, U.P. Sector-200, Noida, U.P.
+Uttar Pradesh Uttar Pradesh
+Phone ; 8888888888 Phone : 8888888888
+IGSTIN : 6969696969696969 IGSTIN : 6969696969696969
+|_HSN.NO._| |__ AMOUNT
+1 ITEM NAME 2 2541 26 Rs. 235.52 Rs. 6,123.52
+2 ITEM NAME 3 4944 2 Rs. 658.00 Rs. 1,316.00
+3 ITEM NAME 4 2546 50 Rs. 485.00 Rs. 24,250.00
+4 ITEM NAME 5 8151 15 Rs. 215.00 Rs. 3,225.00
+PAYABLE AMOUNT Rs. 39,750.18
+Note: -
+Please inclue Include the Invoice number in your payment notes.
+To be paid in full in maximum 7 days after receiving the invoice.
+Authorized Sign.
+If you have any queries for this Invoice please immediate contact us.
++91XXXXXXXXXX], example@mail.com
+THANK YOU FOR BUSINESS WITH US

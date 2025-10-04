@@ -1,0 +1,18 @@
+Source: invoice1.webp
+Extraction Method: tesseract_auto
+Confidence: 0.800
+Text Length: 619 characters
+==================================================
+Invoice Details Billed By Billed To
+Invoice No # 00001 Refrens Business ABC XYZ Business
+Invoice Date ‘Aug 24,2024 301/302, 3rd Floor, InstaOffice, Saket Ikigai Coworking space by Spaceplexx Sth
+Due Date Sep 08, 2024 Callipolis, Sarjapur Rd, Floor, Magnus shopping mall,
+GSTIN: 29AAJCR7259L1Z1 Phone: +91 91910 40430
+PAN: AAJCR7259L_
+Email: care@refrens.com
+Phone: +91 91910 40430
+Eau ad C= ed td eed
+Authorised Signatory
+1, Please pay within 15 days from the date of invoice, overdue
+2. Please quote invoice number when remitting funds.
+For any enquiry, reach out via email at care@refrens.com, call on +91 91910 40430

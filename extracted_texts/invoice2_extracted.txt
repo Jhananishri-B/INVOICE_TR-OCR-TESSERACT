@@ -1,0 +1,15 @@
+Source: invoice2.jpg
+Extraction Method: tesseract_auto
+Confidence: 0.800
+Text Length: 130 characters
+==================================================
+CASH RECEIPT
+Shop Name -
+
+Manager: Lorem ipsum te: oe sina
+Lorem 215 fe meee
+ipsum 875, arn cod
+Price 1440 tae feo
+
+(DANONE
+——————
